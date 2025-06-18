@@ -2,10 +2,10 @@
 
 # Europe Trip 2025 <small>by Micah</small>
 
-> Northern Lights, hot springs, waterfalls, and volcanoes.
+> Northern Lights, hot springs, beaches, cities, and trains.
 
 - Day-by-day itinerary
-- Travel tips and weather
-- Personal photos and highlights
+- Travel tips and highlights
+- Maps, photos, and notes
 
-[View Itinerary](#home-page)
+[Home Page](#home-page)
