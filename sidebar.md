@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 
-## 🗺️ Iceland Trip 2025
+## 🗺️ Europe Trip 2025
 
 * [🏠 Home](README.md)
 
