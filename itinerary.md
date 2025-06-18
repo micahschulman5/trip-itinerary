@@ -1,103 +1,67 @@
-# ✈️ Travel Itinerary: June 23 – July 24
+# 🗺️ Europe Trip Itinerary Overview
 
-## June 23
-✈️ Fly to Dubrovnik (United Airlines)  
-- SEA → ORD: 7:00 AM – 1:15 PM  
-- ORD → EWR: 2:26 PM – 6:00 PM  
-- EWR → DBV: 7:10 PM – arrives June 24, 10:15 AM
+Each day has its own detail page in the sidebar, but here’s a visual summary of the journey!
 
-## June 24
-🛬 Arrive in Dubrovnik at 10:15 AM  
-- Settle in, explore, rest
+---
 
-## June 25
-📍 Full day in Dubrovnik
+## 🇭🇷 Dubrovnik  
+📅 June 23–24  
+🛬 Arrival, beach, explore the old town
 
-## June 26
-🚗 Travel from Dubrovnik → Split
+![Dubrovnik](stockphotos/DBV.jpeg)
 
-## June 27
-📍 Full day in Split
+---
 
-## June 28
-📍 Another day in Split
+## 🇭🇷 Split  
+📅 June 25–28  
+🏛️ Roman ruins, seaside cafes
 
-## June 29
-🚆 Travel from Split → Budapest
+![Split](stockphotos/Split.jpeg)
 
-## June 30
-📍 Full day in Budapest
+---
 
-## July 1
-📍 Another day in Budapest
+## 🇭🇺 Budapest  
+📅 June 29–July 1  
+🛁 Thermal baths, nightlife, historic landmarks
 
-## July 2
-✈️ Fly to Marseille (RyanAir)  
-- BUD → MRS: 8:10 AM – 10:25 AM
+![Budapest](stockphotos/Budapest.jpeg)
 
-## July 3
-📍 Full day in Marseille
+---
 
-## July 4
-🚆 Travel from Marseille → Nice
+## 🇫🇷 Marseille  
+📅 July 2–3  
+⛵ Waterfront, seafood, and port history
 
-## July 5
-📍 Full day in Nice
+![Marseille](stockphotos/Marselle.jpeg)
 
-## July 6
-📍 Another day in Nice
+---
 
-## July 7
-🚆 Train to Cinque Terre
+## 🇫🇷 Nice  
+📅 July 4–6  
+🌴 Promenade des Anglais, beach time
 
-## July 8
-📍 Explore Cinque Terre
+![Nice](stockphotos/Nice.jpeg)
 
-## July 9
-📍 Another day in Cinque Terre
+---
 
-## July 10
-🚗 Travel to Florence or Pisa
+## 🇮🇹 Cinque Terre  
+📅 July 7–9  
+🌈 Colorful seaside villages
 
-## July 11
-📍 Day in Florence or Depart Pisa
+![Cinque Terre](stockphotos/CT.jpeg)
 
-## July 12
-🌀 Maybe Greece?
+---
 
-## July 13
-🌀 Maybe Greece?
+## 🇮🇹 Florence or Pisa  
+📅 July 10–11  
+🎨 Art, cathedrals, Tuscan charm
 
-## July 14
-🌀 Open / Greece?
+![Florence](stockphotos/Florence.jpeg)
 
-## July 15
-🌀 Open / Greece?
+---
 
-## July 16
-🌀 Open / Greece?
+## 🇬🇷 Mykonos (Optional)  
+📅 July 12–16  
+🏖️ Beaches, white-walled villages, and windmills
 
-## July 17
-✈️ Fly to Norway
-
-## July 18
-📍 Day in Norway
-
-## July 19
-📍 Day in Norway
-
-## July 20
-📍 Day in Norway
-
-## July 21
-📍 Day in Norway
-
-## July 22
-📍 Day in Norway
-
-## July 23
-📍 Day in Norway
-
-## July 24
-📍 Final day in Norway
-
+![Mykonos](stockphotos/Mykonos.jpeg)

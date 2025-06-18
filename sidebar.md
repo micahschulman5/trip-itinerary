@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 
-## 🗺️ Europe Trip 2025
+<h2 style="color: white; font-weight: bold;">   Europe Trip 2025</h2>
 
 * [🏠 Home](README.md)
 
