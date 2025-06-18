@@ -6,7 +6,7 @@
 
 * [📅 Itinerary](itinerary.md)
 
-* [🗺️ Interactive Map](intmap.md)
+* [🗺️ Ding Dong Map](intmap.md)
 
 * [Days](Days.md)
 
