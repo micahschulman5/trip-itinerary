@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# Iceland Trip 2025 <small>by Micah</small>
+# Europe Trip 2025 <small>by Micah</small>
 
 > Northern Lights, hot springs, waterfalls, and volcanoes.
 
