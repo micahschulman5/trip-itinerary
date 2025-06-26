@@ -8,7 +8,7 @@
 
 * [🗺️ Interactive Map](intmap.md)
 
-* [🌞Days](Days.md)
+* [🌞 Days](Days.md)
 
   * [June 23 – Fly to Dubrovnik](docsify_days/june23.md)
   * [June 24 – Arrive in Dubrovnik](docsify_days/june24.md)
