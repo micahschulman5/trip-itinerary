@@ -1,3 +1,5 @@
 # Day 15
 
-July 7 – Train to Cinque Terre
+July 7 – Go to Cinque Terre
+
+Train to Cinque Terre
